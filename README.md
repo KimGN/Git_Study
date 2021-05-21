@@ -19,7 +19,7 @@ $ git config --global user.email 이메일@webisfree.com
 
 ### git clone 
 
-### git add   ç  git reset
+### git add  ///  git reset
 
 ### git commit -m "message"
 
