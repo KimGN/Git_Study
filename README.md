@@ -12,7 +12,7 @@ https://designdepot.tistory.com/209
 
 ### git clone 
 
-### git add   /@@@@/  git reset 
+### git add   ç  git reset
 
 ### git commit -m "message"
 
