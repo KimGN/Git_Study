@@ -4,6 +4,13 @@ m1 home brew 설치 방법
 
 https://designdepot.tistory.com/209
 
+## Git 로그인
+$ git config --global user.name "이름"
+
+$ git config --global user.email 이메일@webisfree.com
+
+-----------------------------------------------------
+
 ## Git 명령어
 
 ### git status
