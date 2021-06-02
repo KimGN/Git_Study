@@ -19,7 +19,7 @@ $ git config --global user.email 이메일@webisfree.com
 
 ### git clone 
 
-### git add   ç  git reset
+### git add  ///  git reset
 
 ### git commit -m "message"
 
@@ -28,10 +28,18 @@ $ git config --global user.email 이메일@webisfree.com
 ### git pull
 
 ## Git Branch
-### git branch <branchname>
+
+### git branch "branch name"
 * 브랜치 생성
-###git checkout <branch>
+
+###git checkout "branch name"
 * 브랜치 선택
-###git checkout -b <branch>
-* -b 명령어 사용시 브렌치와 체크아웃을 동시에 할수 있다 
+
+###git checkout -b "branch name"
+* 로컬 브렌치 생성
+* -b 명령어 사용시 로컬 브렌치 생성, 체크아웃을 동시에 할수 있다
+
+###git push origin "local branch name"
+* remote branch 생성
+
 
