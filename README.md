@@ -42,4 +42,5 @@ $ git config --global user.email 이메일@webisfree.com
 ###git push origin "local branch name"
 * remote branch 생성
 
-
+### git push origin --delete newbranch
+* branch 삭재
